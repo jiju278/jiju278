@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🌍 Hi, I'm Jimmy.J!<br><br>👷‍♂️ An Engineer in the industry, passionate about software development. I'm coming from France, I delve into the realm of Software Craftsmanship and actively train in cutting-edge web technologies.<br><br>🛠️ Currently immersing myself in Test-Driven Development (TDD), Clean Architecture, and Domain-Driven Design (DDD). I favor TypeScript technologies, with a particular expertise in Node.js (Express.js and NestJs) and React.<br><br>🚀 I'm open to collaborations and discussions! If you share my passions or have exciting projects, feel free to reach out. Let's code and build together!
+🌍 Hi, I'm Jimmy.J!<br><br>👷‍♂️ An Engineer in the industry, passionate about software development. I'm coming from France, I actively train in cutting-edge web technologies.<br><br>🛠️ I favor TypeScript technologies, with a particular preference for Node.js (Express.js and NestJs) for the backend and React for the frontend.<br><br>🚀 I'm open to collaborations and discussions! If you share my passions or have exciting projects, feel free to reach out. Let's code and build together!
 
 ## 🌐 Socials:
 
